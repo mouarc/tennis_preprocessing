@@ -1,11 +1,6 @@
 #!/usr/bin/env python
-
 """Tests for `tennis_preprocessing` package."""
-
-
 import unittest
-
-from tennis_preprocessing import tennis_preprocessing
 
 
 class TestTennis_preprocessing(unittest.TestCase):

@@ -110,3 +110,6 @@ ENV/
 
 # downloaded files
 datas/*
+
+# Notebooks
+*.ipynb
